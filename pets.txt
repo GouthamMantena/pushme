@@ -1,0 +1,5 @@
+dog
+cat
+bull
+oxe
+eagle
