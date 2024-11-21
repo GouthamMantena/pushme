@@ -5,3 +5,5 @@ oxe
 eagle
 bunty
 mounty
+simba
+minni
